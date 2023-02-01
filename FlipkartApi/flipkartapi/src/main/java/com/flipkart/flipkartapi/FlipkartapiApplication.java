@@ -8,6 +8,7 @@ public class FlipkartapiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FlipkartapiApplication.class, args);
+		System.out.println("......................Project is running....................");
 	}
 
 }
